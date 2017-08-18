@@ -1,3 +1,4 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [TM3 What is New For Mappers](README.md)
+

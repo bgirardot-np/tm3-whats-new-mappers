@@ -1,3 +1,10 @@
-# My Awesome Book
+# New things for Mappers in the Tasking Manager 3
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+1. Profile Page
+    * Email address
+    * Mapper Experience Level
+    * Validator Role
+2. Finding A Project
+3. Mapping Tab
+    * Map and Validation Tabs
+    * Project Level Help and Comments
