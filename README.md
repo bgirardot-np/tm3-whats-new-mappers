@@ -8,3 +8,4 @@
 3. Mapping Tab
     * Map and Validation Tabs
     * Project Level Help and Comments
+    * Bad Imagery Option
