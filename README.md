@@ -9,3 +9,9 @@
     * Map and Validation Tabs
     * Project Level Help and Comments
     * Bad Imagery Option
+    
+## Improved User Profiles
+
+![](/assets/2017-08-19_00h38_26.png)
+
+1. 
