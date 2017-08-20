@@ -19,3 +19,4 @@
 2. Your mapping experience level and progress toward the next level are shown, as well as if you are listed as an experienced validator.
 
 3. Make sure to fill in your email address so you get email notices about your mapping and updates about projects on the Tasking Manager.
+
